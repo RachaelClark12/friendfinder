@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 150px;
+    margin-left: 25px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    margin-left: 25px;
+}
+
+body {
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: white;
+    margin-bottom: 25px;
+}
+
+.btn {
+    margin-bottom: 25px;   
+}
