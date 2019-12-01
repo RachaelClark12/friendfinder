@@ -2,8 +2,7 @@
 Friend Finder is an application that pairs like people based on their answers to a short survey.
 
 # Technology
-Technology Used:
-<br> express: http://expressjs.com/
+express: http://expressjs.com/
 <br> path: https://www.npmjs.com/package/path
 
 # Functionality
